@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+50
+"Ingresa de que numero quieres saber sus multlpos"
+5
+1
+7
+NumSele
+4
+1
+61
+"Hasta que multiplo quiere en que termine la multiplicacion "
+5
+1
+4
+stop
+4
+1
+12
+"En proceso"
+8
+1
+1
+i
+1
+1
+1
+1
+4
+stop
+1
+1
+1
+4
+1
+32
+NumSele,' X ',i,' = ',NumSele*i 
+10
+1
