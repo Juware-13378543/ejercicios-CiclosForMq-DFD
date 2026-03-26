@@ -4,4 +4,4 @@
 
 ## Integrante
 
-- Julian Felipe Bejarano Rojas – 1108269
+- Julian Felipe Bejarano Rojas 😝 – 1108269
